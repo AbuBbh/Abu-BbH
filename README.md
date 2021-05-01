@@ -1,19 +1,20 @@
 
 
 # Bangladesh Blackmail Hacker 
+ 
+ # Auto fb id Hack
 
-  apt update
+  Installation :
 
-  apt install git python python2 -y
+* `apt update`
 
-  git clone   https://github.com//Bd-BbH/BdBbH.git
+* `apt install git python python2 -y`
 
-  cd haxorbd
+* `git clone https://github.com/Bd-BbH/BdBbH.git`
 
-  python2 haxor.py
+* `cd BdBbH`
 
+#### > Run : `python2 BdBbH.py`
 
-
-  USERNAME : haxor
-
-  PASSWORD : htrtech
+#### USERNAME : `BdBbH`
+#### PASSWORD : `abuTaher`
