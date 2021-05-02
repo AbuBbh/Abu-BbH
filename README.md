@@ -1,12 +1,12 @@
 # Abu-BbH
-Bangladesh Blackmail Hacker 
+ ## Bangladesh Blackmail Hacker 
   
 
-## What is WHALE-PHISH??
+## What is WOO-PHISH??
 
   
 
-WHALE-PHISH is a tool that will help you do Phishing in advance way so no one check and identify that you are you doing phishing.
+WOO-PHISH is a tool that will help you do Phishing in advance way so no one check and identify that you are you doing phishing.
 
 For those guys who Doesn't know about Phishing let me explain "Phishing is the fraudulent attempt to obtain sensitive information or data, such as usernames, passwords, by disguising oneself as a trustworthy entity in an electronic communication. Typically carried out by email spoofing, instant messaging and text messaging, phishing often directs users to enter personal information at a fake website which matches the look and feel of the legitimate site."
 
@@ -20,7 +20,7 @@ Hope you guys like this Project,then dont forget to give it a like.
 
   
 
-## Installation of WHALE-PHISH :- 
+## Installation of WOO-PHISH :- 
 
   
 
